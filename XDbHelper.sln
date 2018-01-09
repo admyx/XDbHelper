@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XDbHelper", "XDbHelper\XDbHelper.csproj", "{E57584B1-FDA7-43B1-8AC1-EF1491DFAFBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App", "App\App.csproj", "{90718A76-FEBF-40ED-BF40-82D00ABE64FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E57584B1-FDA7-43B1-8AC1-EF1491DFAFBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E57584B1-FDA7-43B1-8AC1-EF1491DFAFBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E57584B1-FDA7-43B1-8AC1-EF1491DFAFBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E57584B1-FDA7-43B1-8AC1-EF1491DFAFBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90718A76-FEBF-40ED-BF40-82D00ABE64FC}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{90718A76-FEBF-40ED-BF40-82D00ABE64FC}.Debug|Any CPU.Build.0 = Debug|x86
+		{90718A76-FEBF-40ED-BF40-82D00ABE64FC}.Release|Any CPU.ActiveCfg = Release|x86
+		{90718A76-FEBF-40ED-BF40-82D00ABE64FC}.Release|Any CPU.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
