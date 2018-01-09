@@ -1,2 +1,2 @@
 # XDbHelper
-a kindof dbhelper
+a kind of dbhelper
