@@ -326,8 +326,8 @@ namespace Admy.Common
     /// </summary>
     public class QueryParam
     {
-        public string ExtraFieldStr = "";   //扩展字段，叵非空，则须以“,”开头
-        public string ConditionStr = "";    //查询条件，叵非空，则须以and 开头
+        public string ExtraFieldStr = "";   //扩展字段，若非空，则须以“,”开头
+        public string ConditionStr = "";    //查询条件，若非空，则须以and 开头
         public string order = "";      //排序字段
 
         //分页设置，显示页(从1开始，与easyui保持一致）
